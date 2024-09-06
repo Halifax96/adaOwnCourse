@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\esala\Desktop\adaProjectsLearn\learningbasics.gpr
+20240906133830 938f58ee5b0d7d7a1a36416e5ad4dd1e
+[BOUND OBJECT FILES]
+C:\Users\esala\Desktop\adaProjectsLearn\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\esala\Desktop\adaProjectsLearn\obj\
+-LC:\Users\esala\Desktop\adaProjectsLearn\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
